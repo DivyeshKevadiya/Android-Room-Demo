@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RoomDemo</string>
+
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="vehicle_no">Vehicle No</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="mobile_number_optional">Mobile Number (Optional)</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="phone_state_rationale">Permission Required</string>
+    <string name="enter_valid_vehicle_number">Enter valid vehicle number</string>
+    <string name="enter_valid_mobile_number">Enter valid mobile Number</string>
+    <string name="enter_valid_password">Enter valid password</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="location">Location</string>
+    <string name="ignition">Ignition</string>
+    <string name="data">data</string>
+    <string name="refresh">Refresh</string>
+    <string name="select_vehicle">Select Vehicle</string>
+    <string name="opps">Opps</string>
+    <string name="speed">Speed</string>
+    <string name="last_timestamp">Last Time Stamp</string>
+</resources>

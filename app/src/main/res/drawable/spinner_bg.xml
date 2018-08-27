@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+    <item>
+        <layer-list>
+            <item>
+                <shape>
+
+
+                    <solid android:color="@android:color/white" />
+                    <corners android:radius="@dimen/_3sdp" />
+
+                </shape>
+            </item>
+            <item android:right="@dimen/_10sdp">
+                <bitmap android:gravity="center_horizontal|right" android:src="@drawable/icn_drop_down_2">
+                    <padding android:right="3dp" />
+                </bitmap>
+            </item>
+        </layer-list>
+    </item>
+
+</selector>
